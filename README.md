@@ -13,7 +13,9 @@ https://open.work.weixin.qq.com/help2/pc?person_id=1
 企业微信接口  
 https://open.work.weixin.qq.com/api/doc/?from=work_bt  
 企业微信社区    
-https://developers.weixin.qq.com/community/enterprisewechat  
+https://developers.weixin.qq.com/community/enterprisewechat    
+企业微信官方demo  
+https://work.weixin.qq.com/api/doc/90001/90145/90447#%E5%BC%80%E6%BA%90demo
 
 ## 开源SDK
 java  
