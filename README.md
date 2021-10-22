@@ -54,11 +54,12 @@ go
 OpenSCRM: https://github.com/openscrm/api-server  
 go-workwx: https://github.com/xen0n/go-workwx  
 
+### 会话存档
+https://github.com/hufeiyaya/QyChat  
 ## 开源Demo
 
 会话存档  
 java  
-https://github.com/hufeiyaya/QyChat  
 https://gitee.com/flash127/wework-msgaudit
 
 demo  
