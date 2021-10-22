@@ -21,10 +21,11 @@ WxJava: https://github.com/wechat-group/WxJava
 https://gitee.com/binary/weixin-java-tools
 
 go  
-服务端：https://github.com/xen0n/go-workwx  
-服务端：https://github.com/dfang/wechat-work-go    
-服务端：https://github.com/ghaoo/wxwork    
-服务端：https://github.com/wenerme/go-wecom    
+https://github.com/xen0n/go-workwx  
+https://github.com/dfang/wechat-work-go    
+https://github.com/go-laoji/workchatapp
+https://github.com/ghaoo/wxwork    
+https://github.com/wenerme/go-wecom    
 会话存档：https://github.com/NICEXAI/WeWorkFinanceSDK     
 
 php  
@@ -59,7 +60,6 @@ https://github.com/hufeiyaya/QyChat
 ## 开源Demo
 
 会话存档  
-java  
 https://gitee.com/flash127/wework-msgaudit
 
 demo  
