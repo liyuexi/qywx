@@ -20,7 +20,6 @@ https://developers.weixin.qq.com/community/enterprisewechat
 
 ## 开源SDK
 java  
-
 WxJava: https://github.com/wechat-group/WxJava
 https://gitee.com/binary/weixin-java-tools
 
@@ -28,11 +27,11 @@ python
 https://github.com/quanttide/wecom-sdk-py
 
 go  
-服务端：https://github.com/ghaoo/wxwork  
-服务端：https://github.com/xen0n/go-workwx
-服务端：https://github.com/wenerme/go-wecom  
-服务端：https://github.com/dfang/wechat-work-go  
-会话存档：https://github.com/NICEXAI/WeWorkFinanceSDK  
+服务端：https://github.com/ghaoo/wxwork    
+服务端：https://github.com/xen0n/go-workwx  
+服务端：https://github.com/wenerme/go-wecom    
+服务端：https://github.com/dfang/wechat-work-go    
+会话存档：https://github.com/NICEXAI/WeWorkFinanceSDK     
 
 php  
 https://github.com/pithyone/wechat   
@@ -54,8 +53,8 @@ go-workwx: https://github.com/xen0n/go-workwx
 
 php  
 mochat: https://github.com/mochat-cloud/mochat  
-huankemao: https://github.com/huankemao/huankemao-php
-huankemao: https://gitee.com/huankemao/huankemao-php?_from=gitee_search
+huankemao: https://github.com/huankemao/huankemao-php  
+https://gitee.com/huankemao/huankemao-php?_from=gitee_search
 ## 开源Demo
 
 会话存档  
