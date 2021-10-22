@@ -20,7 +20,7 @@ https://developers.weixin.qq.com/community/enterprisewechat
 
 ## 开源SDK
 java  
-WxJava: https://github.com/wechat-group/WxJava
+WxJava: https://github.com/wechat-group/WxJava    
 https://gitee.com/binary/weixin-java-tools
 
 python  
