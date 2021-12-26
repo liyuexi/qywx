@@ -22,10 +22,11 @@ java
 WxJava: https://github.com/wechat-group/WxJava    
 https://gitee.com/binary/weixin-java-tools
 
-go  
-https://github.com/xen0n/go-workwx  
+go
+https://gitee.com/go-laoji/wework      
+https://github.com/go-laoji/workchatapp    
+https://github.com/xen0n/go-workwx    
 https://github.com/dfang/wechat-work-go      
-https://github.com/go-laoji/workchatapp  
 https://github.com/ghaoo/wxwork      
 https://github.com/wenerme/go-wecom    
 会话存档：https://github.com/NICEXAI/WeWorkFinanceSDK     
