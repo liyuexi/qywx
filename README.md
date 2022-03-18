@@ -41,7 +41,9 @@ https://github.com/quanttide/wecom-sdk-py
 
 
 node    
-coa-wx-work: https://github.com/coajs/coa-wx-work
+coa-wx-work: https://github.com/coajs/coa-wx-work  
+https://github.com/Javen205/TNWX/  
+https://github.com/bgdsh/wechat-work-nodejs-sdk   
 
 ## 开源项目 
 ### scrm  
@@ -59,7 +61,9 @@ OpenSCRM: https://github.com/openscrm/api-server
 go-workwx: https://github.com/xen0n/go-workwx  
 
 ### 会话存档
-https://github.com/hufeiyaya/QyChat  
+https://github.com/hufeiyaya/QyChat    
+node:  
+https://github.com/Garfield-yin/wework-chat-node  
 ## 开源Demo
 
 会话存档  
